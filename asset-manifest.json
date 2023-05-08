@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cudaisoai/hotel-app/static/css/main.4593ae2f.css",
+    "main.js": "/cudaisoai/hotel-app/static/js/main.a25ae2b0.js",
+    "index.html": "/cudaisoai/hotel-app/index.html",
+    "main.4593ae2f.css.map": "/cudaisoai/hotel-app/static/css/main.4593ae2f.css.map",
+    "main.a25ae2b0.js.map": "/cudaisoai/hotel-app/static/js/main.a25ae2b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4593ae2f.css",
+    "static/js/main.a25ae2b0.js"
+  ]
+}
